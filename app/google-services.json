@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "738961992255",
+    "firebase_url": "https://geotag-132b1.firebaseio.com",
+    "project_id": "geotag-132b1",
+    "storage_bucket": "geotag-132b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738961992255:android:ecd6ace57e76d9a0a5e68a",
+        "android_client_info": {
+          "package_name": "com.example.android.geotag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738961992255-77psa62dbf840amvf4n62s9pbqe57fse.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.geotag",
+            "certificate_hash": "be538e123a2a75a47a281f9a25722d3c07cb7568"
+          }
+        },
+        {
+          "client_id": "738961992255-ehpu3gd9kvtetfge2p84v94aedp77bgl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkm6w7-QM9XiJ3uhiDQKiwxkWf9XT_bvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738961992255-ehpu3gd9kvtetfge2p84v94aedp77bgl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
